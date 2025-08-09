@@ -37,6 +37,8 @@ Este comando realiza lo siguiente:
 - Versión del keylogger que cifra los datos antes de enviarlos al servidor para proteger la información.
     
 - Usa el mismo comando de compilación que `BasicKey`.
+
+- Se recomienda utilizar este. 
     
 ---
 ## Inyector
@@ -103,3 +105,11 @@ El servidor se queda en escucha esperando los datos enviados por los keyloggers 
 - El keylogger es software malicioso; su uso sin consentimiento es ilegal y puede ser penado.
     
 - Este proyecto es solo para fines educativos y de investigación.
+
+
+---
+
+
+## Agradecimientos
+
+Se les agradece a Desmon y Blackshell por ayudarme en la creacion.
