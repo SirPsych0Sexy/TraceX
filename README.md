@@ -62,7 +62,6 @@ El programa busca procesos activos con nombres específicos (como `cmd.exe`, `
 
 ## Ejecución del servidor
 
-bash
 
 `go run Server.go`
 
